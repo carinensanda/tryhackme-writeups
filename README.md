@@ -1,4 +1,3 @@
-# tryhackme-writeups
 # SOC Level 1 Alert Triage
 
 ## Overview
